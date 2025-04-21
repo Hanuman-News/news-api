@@ -21,3 +21,6 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+!/storage/app/public
+!/storage/app/public/news_images
